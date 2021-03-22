@@ -16,11 +16,13 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
+    "@hapi/jwt": "^2.0.1",
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
     "objection": "^2.2.7",
+    "schmervice": "^1.6.0",
     "schwifty": "^5.4.1",
-    "sqlite3": "5.0.3"
+    "sqlite3": "^5.0.2"
   },
   "peerDependencies": {
     "knex": "0.21.x"
