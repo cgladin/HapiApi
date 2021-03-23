@@ -15,8 +15,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@cgladin/iut-encrypt": "^1.0.12",
-    "@hapi/boom": "9.x.x",
+    "@cgladin/iut-encrypt": "^1.0.13",
+    "@hapi/boom": "^9.1.2",
     "@hapi/jwt": "^2.0.1",
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
