@@ -42,7 +42,7 @@
     "@hapi/vision": "6.x.x",
     "babel-eslint": "10.x.x",
     "confidence": "4.x.x",
-    "dotenv": "8.x.x",
+    "dotenv": "^8.2.0",
     "eslint": "7.x.x",
     "hapi-swagger": "14.x.x",
     "hpal": "2.x.x",

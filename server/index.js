@@ -3,6 +3,8 @@
 const Glue = require('@hapi/glue');
 const Manifest = require('./manifest');
 
+require('dotenv').config();
+
 exports.deployment = async (start) => {
 
     const manifest = Manifest.get('/');
