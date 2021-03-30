@@ -1,10 +1,12 @@
 # API Clément Gladin
 
+npm start/yarn start
+
 Pour le bon fonctionnement du projet il faut modifier les variables d'environnement présentes dans le .env à la racine du projet qui sont les suivante:
 - MAILER_HOST le lien du smtp exemple: smtp.ethereal.email
 - MAILER_USER l'adresse email de l'utilisateur qui envoie exemple: arvel34@ethereal.email
 - MAILER_PASSWORD le password de l'adresse email exemple: eQkzgE2c3mbYumyn1R
-- MAILER_FROM l'email de provenance des emails envoyé exemple: mail@contact.com
+- MAILER_FROM l'email de provenance des emails envoyés exemple: mail@contact.com
 
 ## Les routes
 ### User
